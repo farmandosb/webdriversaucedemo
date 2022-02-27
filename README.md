@@ -16,7 +16,7 @@ mvn clean test
 ```
 
 ## Contributing
-It is not open to contributing yet. It is a very simple project. I plan to add some complexity first, then everybody can join to contribute.
+It is not open to contribute yet. It is a very simple project. I plan to add some complexity first, then everybody can join to contribute.
 
 
 ## License
